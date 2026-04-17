@@ -1,0 +1,10 @@
+/build/
+/output/
+*.o
+*.swp
+*.tmp
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
