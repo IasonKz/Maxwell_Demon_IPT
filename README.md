@@ -202,3 +202,9 @@ Outputs:
 output/figures/control_loop.png
 output/figures/euler_pipeline.png
 ```
+
+![Maxwell Demon simulation](control_loop.png)
+
+
+![Maxwell Demon simulation](euler_pipeline.png)
+
