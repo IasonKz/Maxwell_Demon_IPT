@@ -1,6 +1,6 @@
 # Maxwell Demon complete repo
 
-![Maxwell Demon simulation](assets/animation.gif)
+![Maxwell Demon simulation](animation.gif)
 
 
 C++17 Maxwell-demon-style hard-disk gas simulator + Python visualization + Euler Slurm sweeps + GPU ML surrogate training.
