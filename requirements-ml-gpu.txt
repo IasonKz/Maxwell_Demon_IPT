@@ -1,0 +1,9 @@
+# Install after loading a CUDA-compatible Python/PyTorch environment on Euler if needed.
+numpy
+pandas
+matplotlib
+scikit-learn
+pyarrow
+joblib
+tqdm
+torch
